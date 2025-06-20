@@ -1,4 +1,4 @@
-# Steps to run the application
+## Steps to run the application
 
 1. Create a .env file and keep the variables same as example_env.env
 2. Go to the backend directory from another terminal and run the main.py
@@ -22,3 +22,6 @@
     ```
     reset_collection = "false"
     ```
+
+## Architecture
+![Architecture Image](images/Architecture.png)
