@@ -1,0 +1,10 @@
+/Task#1/.env
+/Task#1/Backend/__pycache__
+/Task#1/Db/__pycache__
+/Task#1/Frontend/__pycache__
+
+Task#2/Backend/.env
+/Task#2/Backend/__pycache__
+/Task#2/Db/__pycache__
+
+/.venv

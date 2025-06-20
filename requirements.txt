@@ -1,0 +1,10 @@
+psycopg2-binary
+python-dotenv
+langchain
+flask
+google-generativeai
+flask
+pypdf2
+sentence-transformers
+qdrant-client 
+langchain-groq
